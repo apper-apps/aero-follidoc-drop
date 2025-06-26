@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "city": "Kuala Lumpur",
+    "name": "Folli-Doc KL Gateway",
+    "address": "KL Gateway Mall, Level 3, Unit 3-15, No. 2, Jalan Kerinchi, Bangsar South, 59200 Kuala Lumpur",
+    "phone": "+60-3-2780-1234",
+    "whatsapp": "+60-12-345-6789",
+    "email": "kl@follidoc.my",
+    "hours": "Mon-Sun: 10:00 AM - 8:00 PM",
+    "mapUrl": "https://maps.google.com/embed?pb=!1m18!1m12!1m3!1d3984.1234567890!2d101.6789!3d3.1234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zM8KwMDcnMjQuNCJOIDEwMcKwNDAnNDQuMCJF!5e0!3m2!1sen!2smy!4v1234567890",
+    "services": ["Hair Simulation", "Bio-Stimulation", "Consultation", "Training"],
+    "parking": "Free parking available",
+    "accessibility": "Wheelchair accessible",
+    "languages": ["English", "Bahasa Malaysia", "Mandarin", "Cantonese"]
+  },
+  {
+    "Id": 2,
+    "city": "Sibu",
+    "name": "Folli-Doc Sibu Centre",
+    "address": "Wisma Sanyan, Ground Floor, Jalan Sanyan, 96000 Sibu, Sarawak",
+    "phone": "+60-84-123-456",
+    "whatsapp": "+60-11-987-6543",
+    "email": "sibu@follidoc.my",
+    "hours": "Mon-Sat: 9:00 AM - 6:00 PM, Sun: Closed",
+    "mapUrl": "https://maps.google.com/embed?pb=!1m18!1m12!1m3!1d3984.5678901234!2d111.8234!3d2.2876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMsKwMTcnMTUuNCJOIDExMcKwNDknMjQuMCJF!5e0!3m2!1sen!2smy!4v1234567891",
+    "services": ["Hair Simulation", "Bio-Stimulation", "Consultation"],
+    "parking": "Street parking available",
+    "accessibility": "Ground floor access",
+    "languages": ["English", "Bahasa Malaysia", "Mandarin", "Iban"]
+  },
+  {
+    "Id": 3,
+    "city": "Penang",
+    "name": "Folli-Doc Penang Hub",
+    "address": "Gurney Plaza, Level 2, Unit 2-08A, 170, Persiaran Gurney, 10250 George Town, Penang",
+    "phone": "+60-4-890-1234",
+    "whatsapp": "+60-16-789-0123",
+    "email": "penang@follidoc.my",
+    "hours": "Mon-Sun: 11:00 AM - 9:00 PM",
+    "mapUrl": "https://maps.google.com/embed?pb=!1m18!1m12!1m3!1d3971.8901234567!2d100.3098!3d5.4372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNcKwMjYnMTQuNCJOIDEwMMKwMTgnMzUuMCJF!5e0!3m2!1sen!2smy!4v1234567892",
+    "services": ["Hair Simulation", "Bio-Stimulation", "Consultation", "Training"],
+    "parking": "Mall parking available",
+    "accessibility": "Elevator and escalator access",
+    "languages": ["English", "Bahasa Malaysia", "Mandarin", "Hokkien", "Tamil"]
+  }
+]

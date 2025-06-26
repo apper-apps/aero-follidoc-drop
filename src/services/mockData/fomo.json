@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "message": "Someone just enquired",
+    "location": "Kuala Lumpur",
+    "timeAgo": "3 minutes ago",
+    "action": "consultation booking",
+    "isActive": true
+  },
+  {
+    "Id": 2,
+    "message": "New distributor application",
+    "location": "Penang",
+    "timeAgo": "7 minutes ago",
+    "action": "distributor enquiry",
+    "isActive": true
+  },
+  {
+    "Id": 3,
+    "message": "Course enrollment completed",
+    "location": "Sibu",
+    "timeAgo": "12 minutes ago",
+    "action": "course enquiry",
+    "isActive": true
+  },
+  {
+    "Id": 4,
+    "message": "Someone viewed technology page",
+    "location": "Johor Bahru",
+    "timeAgo": "15 minutes ago",
+    "action": "page view",
+    "isActive": true
+  },
+  {
+    "Id": 5,
+    "message": "New consultation request",
+    "location": "Kuala Lumpur",
+    "timeAgo": "18 minutes ago",
+    "action": "consultation booking",
+    "isActive": true
+  }
+]

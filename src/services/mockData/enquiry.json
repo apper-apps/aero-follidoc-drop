@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "type": "distributor",
+    "name": "Michael Chen",
+    "email": "michael.chen@example.com",
+    "phone": "+60-12-345-6789",
+    "company": "Premium Hair Solutions Sdn Bhd",
+    "location": "Kuala Lumpur",
+    "experience": "5+ years in beauty industry",
+    "message": "Interested in becoming a distributor for Folli-Doc technology in KL area. Have existing network of clinics.",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "status": "pending"
+  },
+  {
+    "Id": 2,
+    "type": "course",
+    "name": "Dr. Sarah Lim",
+    "email": "sarah.lim@clinic.com",
+    "phone": "+60-11-987-6543",
+    "profession": "Dermatologist",
+    "clinicName": "Skin & Hair Clinic",
+    "yearsExperience": "8",
+    "message": "Would like to learn the Folli-Doc technique. When is the next training course available?",
+    "timestamp": "2024-01-14T14:20:00Z",
+    "status": "contacted"
+  },
+  {
+    "Id": 3,
+    "type": "distributor",
+    "name": "Ahmad Rahman",
+    "email": "ahmad.rahman@healthgroup.my",
+    "phone": "+60-13-456-7890",
+    "company": "East Coast Health Group",
+    "location": "Penang",
+    "experience": "3+ years medical device distribution",
+    "message": "Looking to expand our medical device portfolio. Interested in Folli-Doc distribution rights for Northern Malaysia.",
+    "timestamp": "2024-01-13T09:15:00Z",
+    "status": "pending"
+  }
+]
