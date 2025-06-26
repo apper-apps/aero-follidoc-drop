@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { toast } from "react-toastify";
-import Button from "@/components/atoms/Button";
+import { enquiryService } from "@/services/api/enquiryService";
+import ApperIcon from "@/components/ApperIcon";
 import FormField from "@/components/molecules/FormField";
 import EnquiryModal from "@/components/organisms/EnquiryModal";
-import ApperIcon from "@/components/ApperIcon";
-import { enquiryService } from "@/services/api/enquiryService";
+import Button from "@/components/atoms/Button";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -42,12 +42,12 @@ const Contact = () => {
 
     setErrors(newErrors)
     return Object.keys(newErrors).length === 0
+setErrors(newErrors)
+    return Object.keys(newErrors).length === 0
   }
 
   const handleSubmit = async (e) => {
     e.preventDefault()
-    
-    if (!validateForm()) return
 
     setLoading(true)
     try {
@@ -55,7 +55,6 @@ const Contact = () => {
         type: 'general',
         ...formData
       })
-})
 
       toast.success(
         'Your message has been sent successfully! We'll get back to you within 24 hours.',
