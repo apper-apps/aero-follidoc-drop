@@ -40,8 +40,6 @@ const Contact = () => {
     if (!formData.subject.trim()) newErrors.subject = 'Subject is required'
     if (!formData.message.trim()) newErrors.message = 'Message is required'
 
-    setErrors(newErrors)
-    return Object.keys(newErrors).length === 0
 setErrors(newErrors)
     return Object.keys(newErrors).length === 0
   }
@@ -56,8 +54,8 @@ setErrors(newErrors)
         ...formData
       })
 
-      toast.success(
-        'Your message has been sent successfully! We'll get back to you within 24 hours.',
+toast.success(
+        'Your message has been sent successfully! We\'ll get back to you within 24 hours.',
         {
           position: "top-center",
           autoClose: 6000,
